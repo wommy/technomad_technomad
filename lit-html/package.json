@@ -1,0 +1,11 @@
+{
+  "name": "technomad-lit_html",
+  "version": "0.0.0",
+  "description": "technomad using lit-html",
+  "main": "index.js",
+  "author": "wommy",
+  "license": "MIT",
+  "dependencies": {
+    "lit-html": "^1.0.0"
+  }
+}
